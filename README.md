@@ -27,8 +27,8 @@
 
 <br/>
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Comi15&show_icons=true&include_all_commits=true&theme=cobaltl&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Comi15&show_icons=true&theme=cobaltl&hide_border=true">		  
+    <img width="49.5%" height="300vw" src="https://github-readme-stats.vercel.app/api?username=Comi15&show_icons=true&include_all_commits=true&theme=cobaltl&hide_border=true">
+    <img width="49.5%" height="310vw" src="https://github-readme-streak-stats.herokuapp.com/?user=Comi15&show_icons=true&theme=cobaltl&hide_border=true">		  
   
 </p>
 <br>
