@@ -30,6 +30,7 @@
     <img width="49.5%" height="300vw" src="https://github-readme-stats.vercel.app/api?username=Comi15&show_icons=true&include_all_commits=true&theme=transparentl&hide_border=true">
     <img width="49.5%" height="310vw" src="https://github-readme-streak-stats.herokuapp.com/?user=Comi15&show_icons=true&theme=transparentl&hide_border=true">	
 </p>
+<br/>
 <p align="center">  
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comi15&theme=transparentl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   
