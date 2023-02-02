@@ -36,6 +36,11 @@
 
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comi15&theme=cobaltl&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comi15&theme=cobaltl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Comi15}/count.svg"></p>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+Currently a final year student at Faculty of Technical Sciences, Department of Applied Software Engineering.Enroled in 2019. Since than developed a passion for web development, especially Web Api using .NET framework for the backend and HTML,CSS and JavaScript(jQuery) for the frontend.Worked on a few college projects using Python.Done a good amount of work in C# WCF, currently learning react framework and looking to expand my knowledge in backand and frontend with REST Api architecture.
