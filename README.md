@@ -5,8 +5,8 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-61046C.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/JavaScript-6F270C.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/React JS-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/TypeScript-6F270C.svg?style=for-the-badge&logo=typescript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
@@ -16,7 +16,7 @@
 <p>
 <div align="center">	
 	<a href="https://www.linkedin.com/in/milovan-aleksic-7810b3263/" rel="nofollow">
-  		<img alt=" LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt=" LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" style="max-width: 100%;"/>
 	</a>
 </p>
 </div>
