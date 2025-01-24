@@ -26,15 +26,12 @@
 
 
 <br/>
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Comi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Comi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-	
-</p>
-
-<p align="center">  
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comi15&theme=transparentl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">  
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Comi15&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Comi15&layout=compact&langs_count=8&card_width=320&theme=tokynight" />
+</a>
 
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
