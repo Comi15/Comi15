@@ -4,12 +4,12 @@
 
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-61046C.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/React JS-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/TypeScript-6F270C.svg?style=for-the-badge&logo=typescript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Node JS-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Node JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 </p>
 
