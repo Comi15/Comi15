@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-6F270C.svg?style=for-the-badge&logo=typescript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Node JS-brightgreen?style=for-the-badge">
 </div>
 </p>
 
