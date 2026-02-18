@@ -22,17 +22,8 @@
 </div>
 </p>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Comi15&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Comi15&layout=compact&langs_count=8&card_width=320&theme=tokynight" />
-</a>
 
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-Currently a final year student at the Faculty of Technical Sciences, Department of Power Software Engineering.Enrolled in 2019. Since then developed a passion for web development, especially Web Api using <b>ASP.NET</b> and <b>Express JS</b> frameworks with various frontend technologies. Worked on a few college projects using <b>Python</b>. Done a good amount of work in <b>C# WCF</b>,<b>C#</b> object-oriented programming in general. Worked with several SQL databases => MySql, MsSQl, PostgreSQL and gained a solid knowledge of RDBMS.
+Bachelor's Degree in <b>Computer Science</b> and <b>Electrical Engineering</b>, Department of Power Software Engineering. My background spans Linux servers, networking, and tools like <b>Docker</b>, <b>Nginx</b>, and <b>cloud infrastracture</b>, which I integrate with coding skills to streamline development and deployment. I enjoy solving complex problems, automating workflows, and creating secure, reliable systems. Always eager to learn and collaborate, I thrive on projects that push technology forward. I bring together strong programming expertise with solid knowledge of infrastructure and containerization to build efficient and scalable applications.
